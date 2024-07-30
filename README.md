@@ -1,4 +1,4 @@
-# Inffus - Teste para Contratação de Desenvolvedor Front End
+# Inffus - Teste para Desenvolvedor Front End
 
 ## Objetivo
 
