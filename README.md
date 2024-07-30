@@ -20,6 +20,9 @@ O objetivo deste repositório é apresentar um teste para a contratação de um 
    - Utilizar ReactJS/NextJS para o desenvolvimento da aplicação.
    - TypeScript é um diferencial e será considerado positivamente.
 
+5. **Diferenciais**
+   - Qualquer funcionalidade a mais será um diferencial, como por exemplo: controle de cache, paginação, etc.
+
 ## Foco
 
 O candidato deve focar na utilização das melhores práticas de programação com ReactJS e NextJS, incluindo, mas não se limitando a:
