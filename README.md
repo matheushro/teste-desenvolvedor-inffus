@@ -18,11 +18,13 @@ O objetivo deste repositório é apresentar um teste para a contratação de um 
 
 4. **Tecnologias Utilizadas**
    - Utilizar ReactJS/NextJS para o desenvolvimento da aplicação.
-   - TypeScript é um diferencial e será considerado positivamente.
-   - Tailwindcss.
+
 
 5. **Diferenciais**
    - Qualquer funcionalidade a mais será um diferencial, como por exemplo: controle de cache, paginação, etc.
+   - TypeScript é um diferencial e será considerado positivamente.
+   - Tailwindcss.
+
 
 ## Foco
 
@@ -41,6 +43,7 @@ O candidato deve focar na utilização das melhores práticas de programação c
 1. Faça um fork deste repositório.
 2. Crie uma nova branch para o seu desenvolvimento.
 3. Após concluir o desenvolvimento, crie um pull request com a sua branch.
+4. Prazo é de 72h (3 dias) após o recebimento do teste.
 
 ## Recursos Úteis
 
