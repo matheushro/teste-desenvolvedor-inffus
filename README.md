@@ -25,7 +25,7 @@ O objetivo deste repositório é apresentar um teste para a contratação de um 
 
 ## Foco
 
-O candidato deve focar na utilização das melhores práticas de programação com ReactJS e NextJS, incluindo, mas não se limitando a:
+O candidato deve focar na utilização das melhores práticas de programação com ReactJS e NextJS, como por exemplo:
 
 - Estrutura de pastas organizada
 - Componentização adequada
