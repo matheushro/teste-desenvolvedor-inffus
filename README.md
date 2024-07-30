@@ -1,8 +1,8 @@
-# Teste para Contratação de Desenvolvedor Front End - Inffus
+# Inffus - Teste para Contratação de Desenvolvedor Front End
 
 ## Objetivo
 
-O objetivo deste repositório é apresentar um teste para a contratação de um desenvolvedor júnior. O candidato deverá consumir a API do Rick and Morty e desenvolver uma aplicação que atenda aos seguintes requisitos.
+O objetivo deste repositório é apresentar um teste para a contratação de um desenvolvedor front-end. O candidato deverá consumir a API do Rick and Morty e desenvolver uma aplicação que atenda aos seguintes requisitos:
 
 ## Requisitos
 
